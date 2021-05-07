@@ -39,3 +39,4 @@ Testy
 	za pomocą pętli for w interpreterze.
 
 link do repozytorium:
+https://github.com/Kaspyy/PythonVendingMachine
