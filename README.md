@@ -35,5 +35,5 @@ Testy
 	reszty monet do odliczonej kwoty, ponowne wybranie poprawnego numeru towaru
 	- oczekiwany brak reszty.
 8. Zakup towaru płacąc po 1 gr - suma stu monet ma być równa 1zł (dla floatów
-	suma sto razy 0.01 +0.01 +...+0.01 nie będzie równa 1.0). Pła ności dokonać
+	suma sto razy 0.01 +0.01 +...+0.01 nie będzie równa 1.0). Płatności dokonać
 	za pomocą pętli for w interpreterze.
